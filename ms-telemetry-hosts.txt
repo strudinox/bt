@@ -7,7 +7,6 @@ corpext.msitadfs.glbdns2.microsoft.com
 cs1.wpc.v0cdn.net
 df.telemetry.microsoft.com
 diagnostics.support.microsoft.com
-fe2.update.microsoft.com.akadns.net
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
@@ -20,13 +19,9 @@ redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
 services.wes.df.telemetry.microsoft.com
 settings-sandbox.data.microsoft.com
-sls.update.microsoft.com.akadns.net
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
-statsfe1.ws.microsoft.com
-statsfe2.update.microsoft.com.akadns.net
-statsfe2.ws.microsoft.com
 survey.watson.microsoft.com
 telecommand.telemetry.microsoft.com
 telecommand.telemetry.microsoft.com.nsatc.net
